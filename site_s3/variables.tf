@@ -1,5 +1,5 @@
 variable "domain" {
-    default = "platform.vee.codes.hml"
+    description = "Domain Site s3"
     type = string
   
 }
